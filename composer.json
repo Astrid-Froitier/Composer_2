@@ -1,0 +1,16 @@
+{
+  "name": "wild/app",
+  "description": "wild composer quest",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Astrid-Froitier",
+      "email": "asfroitier@gmail.com"
+    }
+  ],
+  "require": {}
+}
